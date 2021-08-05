@@ -1,0 +1,32 @@
+body{
+  background: url("./Images/bg.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.App {
+  opacity: 0.8;
+  background-color: aliceblue;
+  width: 25%;
+  height: 250px;
+  margin-top: 15%;
+  margin-left: 40%;
+  text-align: center;
+  display: 'flex';
+  align-items: 'center'; 
+  justify-content: 'center';
+  }
+
+.inputText{
+  height: 30px;
+}
+
+  .button{
+    font-size: 16px;
+    margin-left: 20px;
+    background-color: #008CBA;
+    height: 40px;
+    width: 100px;
+    border-radius: 12px;
+  }
